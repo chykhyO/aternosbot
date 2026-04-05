@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "silly_billy_2015.aternos.me:47225",
+    "ip": "tapir.aternos.host",
     "port": 47225,
     "version": "",
     "try-creative": false
